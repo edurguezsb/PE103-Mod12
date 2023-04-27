@@ -1,0 +1,8 @@
+node_modules
+dist
+.nyc_output
+.nyc_output/processinfo
+package-lock.json
+coverage
+.coveralls.yml
+data/
